@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"A",
+				"a"
+			],
+			[
+				"end",
+				"endl"
+			],
+			[
+				"st",
+				"string"
+			],
+			[
+				"ans",
+				"ans"
+			],
+			[
+				"sta",
+				"start_Y"
+			],
+			[
+				"re",
+				"rem"
+			],
+			[
+				"n-",
+				"n-start"
+			],
+			[
+				"en",
+				"endl"
+			],
+			[
+				"ma",
+				"maxi"
+			],
+			[
+				"End",
+				"endl"
+			],
+			[
+				"d",
+				"done"
+			],
+			[
+				"s1",
+				"s1_it"
+			],
+			[
+				"s2",
+				"s2_it"
+			],
+			[
+				"be",
+				"begin"
+			],
+			[
+				"in",
+				"initial"
+			],
+			[
+				"pri",
+				"find_prime_list"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"paka",
+				"Package Control: Install Package"
+			],
+			[
+				"insta",
+				"Package Control: Advanced Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 136.0,
+		"history":
+		[
+			"#include<iostream.h>",
+			"cout<<endl;",
+			"lr;,",
+			"git add"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/home/ritik-garg/com_prog/dsalgo/ds"
+	],
+	"file_history":
+	[
+		"/tmp/mozilla_ritik-garg0/parthtiwari-000000000031d6bb.txt",
+		"/tmp/mozilla_ritik-garg0/Abhi333jain-000000000032709f.txt",
+		"/tmp/mozilla_ritik-garg0/parthtiwari-000000000031d6bb-1.txt",
+		"/home/ritik-garg/com_prog/codeforce/code_jam_1c/2.cpp",
+		"/home/ritik-garg/com_prog/codeforce/1.cpp",
+		"/home/ritik-garg/com_prog/codeforce/d_per.cpp",
+		"/home/ritik-garg/com_prog/codeforce/ph_dist.cpp",
+		"/home/ritik-garg/com_prog/codeforce/ph_beauty.cpp",
+		"/home/ritik-garg/com_prog/codeforce/pho_bal.cpp",
+		"/home/ritik-garg/com_prog/codeforce/ano_c_prob.cpp",
+		"/home/ritik-garg/com_prog/codeforce/d_color.cpp",
+		"/home/ritik-garg/com_prog/codeforce/d_rank_col.cpp",
+		"/home/ritik-garg/com_prog/codeforce/badge.cpp",
+		"/home/ritik-garg/com_prog/codeforce/polandball_hyp.cpp",
+		"/home/ritik-garg/com_prog/codeforce/output.txt",
+		"/home/ritik-garg/codeforce/output.txt",
+		"/home/ritik-garg/codeforce/a.out",
+		"/home/ritik-garg/codeforce/ouput.txt"
+	],
+	"find":
+	{
+		"height": 24.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 24.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 0.0
+	},
+	"output.exec":
+	{
+		"height": 202.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.git":
+	{
+		"height": 108.0
+	},
+	"pinned_build_system": "Packages/C++/C++ Single File.sublime-build",
+	"project": "ds.sublime-project",
+	"replace":
+	{
+		"height": 44.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 137.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+		"max_columns": 2
+	}
+}
