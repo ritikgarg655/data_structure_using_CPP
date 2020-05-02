@@ -132,10 +132,14 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ritik-garg/com_prog/dsalgo/ds"
+		"/home/ritik-garg/com_prog/ds",
+		"/home/ritik-garg/com_prog/ds/array"
 	],
 	"file_history":
 	[
+		"/home/ritik-garg/com_prog/ds/array/implement_using_stl.cpp",
+		"/home/ritik-garg/com_prog/dsalgo/ds/array/static_dynamic_array.cpp",
+		"/home/ritik-garg/com_prog/dsalgo/ds/array/implement_using_stl.cpp",
 		"/tmp/mozilla_ritik-garg0/parthtiwari-000000000031d6bb.txt",
 		"/tmp/mozilla_ritik-garg0/Abhi333jain-000000000032709f.txt",
 		"/tmp/mozilla_ritik-garg0/parthtiwari-000000000031d6bb-1.txt",
@@ -282,7 +286,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 137.0,
+	"side_bar_width": 365.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
