@@ -4,6 +4,42 @@
 		"selected_items":
 		[
 			[
+				"si",
+				"size"
+			],
+			[
+				"ar",
+				"arr"
+			],
+			[
+				"m",
+				"m_capacity"
+			],
+			[
+				"siz",
+				"size_t"
+			],
+			[
+				"ca",
+				"capacity"
+			],
+			[
+				"in",
+				"index"
+			],
+			[
+				"ma",
+				"m_capacity"
+			],
+			[
+				"m_",
+				"m_size"
+			],
+			[
+				"size",
+				"size_t"
+			],
+			[
 				"A",
 				"a"
 			],
@@ -36,10 +72,6 @@
 				"endl"
 			],
 			[
-				"ma",
-				"maxi"
-			],
-			[
 				"End",
 				"endl"
 			],
@@ -60,10 +92,6 @@
 				"begin"
 			],
 			[
-				"in",
-				"initial"
-			],
-			[
 				"pri",
 				"find_prime_list"
 			]
@@ -71,6 +99,24 @@
 	},
 	"buffers":
 	[
+		{
+			"file": "array/static_dynamic_array.cpp",
+			"settings":
+			{
+				"buffer_size": 1650,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "array/STL_Implementation.cpp",
+			"settings":
+			{
+				"buffer_size": 445,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
 	],
 	"build_system": "",
 	"build_system_choices":
@@ -137,6 +183,7 @@
 	],
 	"file_history":
 	[
+		"/home/ritik-garg/com_prog/ds/template.cpp",
 		"/home/ritik-garg/com_prog/ds/array/implement_using_stl.cpp",
 		"/home/ritik-garg/com_prog/dsalgo/ds/array/static_dynamic_array.cpp",
 		"/home/ritik-garg/com_prog/dsalgo/ds/array/implement_using_stl.cpp",
@@ -175,6 +222,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"endl"
 		],
 		"highlight": true,
 		"in_selection": false,
@@ -192,8 +240,71 @@
 	"groups":
 	[
 		{
+			"selected": 1,
 			"sheets":
 			[
+				{
+					"buffer": 0,
+					"file": "array/static_dynamic_array.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1650,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1354,
+								1354
+							]
+						],
+						"settings":
+						{
+							"SL.64.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 492.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "array/STL_Implementation.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 445,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								226,
+								226
+							]
+						],
+						"settings":
+						{
+							"SL.65.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
 			]
 		}
 	],
@@ -286,7 +397,7 @@
 	"show_open_files": false,
 	"show_tabs": true,
 	"side_bar_visible": true,
-	"side_bar_width": 365.0,
+	"side_bar_width": 214.0,
 	"status_bar_visible": true,
 	"template_settings":
 	{
