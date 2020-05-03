@@ -4,6 +4,30 @@
 		"selected_items":
 		[
 			[
+				"ad",
+				"add"
+			],
+			[
+				"te",
+				"temp"
+			],
+			[
+				"pr",
+				"print"
+			],
+			[
+				"tem",
+				"temp1"
+			],
+			[
+				"st",
+				"starting_add"
+			],
+			[
+				"s",
+				"starting_add"
+			],
+			[
 				"si",
 				"size"
 			],
@@ -46,10 +70,6 @@
 			[
 				"end",
 				"endl"
-			],
-			[
-				"st",
-				"string"
 			],
 			[
 				"ans",
@@ -112,7 +132,16 @@
 			"file": "array/STL_Implementation.cpp",
 			"settings":
 			{
-				"buffer_size": 445,
+				"buffer_size": 444,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "linked_list/linked_list.cpp",
+			"settings":
+			{
+				"buffer_size": 1352,
 				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			}
@@ -222,6 +251,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"\t\t\t\n",
 			"endl"
 		],
 		"highlight": true,
@@ -240,7 +270,7 @@
 	"groups":
 	[
 		{
-			"selected": 1,
+			"selected": 2,
 			"sheets":
 			[
 				{
@@ -271,7 +301,7 @@
 						"translation.y": 492.0,
 						"zoom_level": 1.0
 					},
-					"stack_index": 1,
+					"stack_index": 2,
 					"type": "text"
 				},
 				{
@@ -280,15 +310,15 @@
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 445,
+						"buffer_size": 444,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								226,
-								226
+								251,
+								251
 							]
 						],
 						"settings":
@@ -300,6 +330,37 @@
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "linked_list/linked_list.cpp",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1352,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1105,
+								1105
+							]
+						],
+						"settings":
+						{
+							"SL.35.region_keys":
+							[
+							],
+							"syntax": "Packages/C++/C++.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 457.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,

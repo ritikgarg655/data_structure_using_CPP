@@ -12,7 +12,6 @@ int main(){
 	}
 	cout<<endl;
 
-
 	// Better than this is to use vector
 	vector<int> v(5,0); // size: 5 ,value: 0
 	cout<<"Size of vector:"<<v.size()<<endl;
