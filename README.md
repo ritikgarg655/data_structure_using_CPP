@@ -9,3 +9,4 @@ This repository contain my practice done to learn DataStructure.
   1. array:<br>
       a. static and dynamic array implementation.<br>
       b. Usin STL implementation.<br>
+  2. Linked List: The problem with array is that it is not efficient in terms of memory. It always double the size, loss of memory.
