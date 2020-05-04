@@ -47,6 +47,7 @@ template <class type> class linked_list{
 			}
 
 		}
+		
 		void print(){
 			l_list<type>* temp = starting_add;
 			cout<<"Printing data: ";
@@ -59,6 +60,16 @@ template <class type> class linked_list{
 				temp = temp->add;
 			}
 			cout<<endl;
+		}
+
+		void r_print(){
+			static l_list<type>* temp_add = starting_add;
+			if(temp_add==0) {cout<<"Print in reverse order:";return;}
+			l_list<type>* temp1 = temp_add;
+			temp_add = temp_add->add;
+			r_print();
+			cout<<temp1->data<<" ";
+			if(temp1==starting_add) cout<<endl;
 		}
 
 		void delete_node(int index){
@@ -110,6 +121,7 @@ int main(){
 	l1.delete_node(0);
 	l1.print();
 	l1.reverse_list();
-	l1.add_node(2);
+	l1.add_node(2);	
 	l1.print();
+	l1.r_print();
 }
