@@ -60,6 +60,24 @@ template <class type> class linked_list{
 			}
 			cout<<endl;
 		}
+
+		void delete_node(int index){
+			l_list<type>* temp = starting_add;
+			if(index==0){
+				starting_add = temp->add;
+			}
+			for(int i=0;i<index;i++){
+				// temp = temp->add;
+				if(i==index-1){
+					l_list<type>* temp1 = temp;
+					temp1 = temp->add;
+					temp->add = temp1->add;
+					break;
+				}
+				temp = temp->add;
+			}
+
+		}
 };
 
 int main(){
@@ -68,5 +86,7 @@ int main(){
 	l1.add_node(3);
 	l1.add_node(1,12);
 	l1.add_node(4);
+	l1.print();
+	l1.delete_node(0);
 	l1.print();
 }
