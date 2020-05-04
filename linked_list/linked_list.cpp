@@ -65,6 +65,8 @@ template <class type> class linked_list{
 			l_list<type>* temp = starting_add;
 			if(index==0){
 				starting_add = temp->add;
+				free(temp);
+				return;
 			}
 			for(int i=0;i<index;i++){
 				// temp = temp->add;
@@ -72,11 +74,29 @@ template <class type> class linked_list{
 					l_list<type>* temp1 = temp;
 					temp1 = temp->add;
 					temp->add = temp1->add;
+					free(temp1);
 					break;
 				}
 				temp = temp->add;
 			}
+		}
 
+		void reverse_list(){
+			l_list<type>* temp = 0;
+			while(1){
+				// starting_add->add = temp;
+				l_list<type>* temp1 = 0;
+				temp1 = temp;
+				temp = starting_add;
+				starting_add = starting_add->add;
+				temp->add = temp1;
+				if(starting_add->add==0){
+					starting_add->add = temp;
+					break;
+				}
+				// temp 
+				// temp = 
+			}
 		}
 };
 
@@ -88,5 +108,8 @@ int main(){
 	l1.add_node(4);
 	l1.print();
 	l1.delete_node(0);
+	l1.print();
+	l1.reverse_list();
+	l1.add_node(2);
 	l1.print();
 }
