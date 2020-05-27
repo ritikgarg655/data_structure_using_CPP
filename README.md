@@ -7,11 +7,19 @@ This repository contain my practice done to learn DataStructure.
 
 ## Folder content:
   ### 1. array:<br>
-   A. static and dynamic array implementation.<br>
-   B. Usin STL implementation.<br>
+         A. static and dynamic array implementation.
+         B. Usin STL implementation.
   ### 2. Linked List: 
-  The problem with array is that it is not efficient in terms of memory. It always double the size, loss of memory, but it is not in linked list but required double size, another to save addrress.<br><br>
-     Time comlexity of following operation in linked list:<br>
-       A. Insertion: O(N)<br>
-       B. Deletion:  O(N)<br>
-       C. Access:    O(N)<br>
+      The problem with array is that it is not efficient in terms of memory. It always double the size, loss of memory, but it is not in linked list but required double size, another to save addrress.
+     Time comlexity of following operation in linked list:
+       A. Insertion: O(N)
+       B. Deletion:  O(N)
+       C. Access:    O(N)
+  ### 3. Stack:
+         It is LIFO (last in, first out).
+         Uses of stack:
+        A. Used to undo in text editor.
+        B. Tower of annoy problem.
+        C. To check brackets in code in text editor.
+        D. Used in dfs.
+  
