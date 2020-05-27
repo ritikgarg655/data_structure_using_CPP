@@ -4,27 +4,79 @@
 		"selected_items":
 		[
 			[
-				"ad",
-				"add"
+				"de",
+				"deleting_node"
+			],
+			[
+				"d",
+				"d_l"
+			],
+			[
+				"cou",
+				"count"
+			],
+			[
+				"ne",
+				"next_add"
+			],
+			[
+				"tem",
+				"temp"
+			],
+			[
+				"pre",
+				"prev_add"
+			],
+			[
+				"do",
+				"double_l_list"
+			],
+			[
+				"t",
+				"type"
+			],
+			[
+				"l",
+				"l1"
 			],
 			[
 				"te",
-				"temp"
+				"temp_add"
+			],
+			[
+				"s",
+				"s_starting_add"
+			],
+			[
+				"sta",
+				"static"
+			],
+			[
+				"r",
+				"r_revese_list"
+			],
+			[
+				"re",
+				"return"
+			],
+			[
+				"p",
+				"p_add"
+			],
+			[
+				"ad",
+				"add_node"
+			],
+			[
+				"pri",
+				"print"
 			],
 			[
 				"pr",
 				"print"
 			],
 			[
-				"tem",
-				"temp1"
-			],
-			[
 				"st",
-				"starting_add"
-			],
-			[
-				"s",
 				"starting_add"
 			],
 			[
@@ -76,14 +128,6 @@
 				"ans"
 			],
 			[
-				"sta",
-				"start_Y"
-			],
-			[
-				"re",
-				"rem"
-			],
-			[
 				"n-",
 				"n-start"
 			],
@@ -96,10 +140,6 @@
 				"endl"
 			],
 			[
-				"d",
-				"done"
-			],
-			[
 				"s1",
 				"s1_it"
 			],
@@ -110,39 +150,16 @@
 			[
 				"be",
 				"begin"
-			],
-			[
-				"pri",
-				"find_prime_list"
 			]
 		]
 	},
 	"buffers":
 	[
 		{
-			"file": "array/static_dynamic_array.cpp",
+			"contents": "\t",
 			"settings":
 			{
-				"buffer_size": 1650,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "array/STL_Implementation.cpp",
-			"settings":
-			{
-				"buffer_size": 444,
-				"encoding": "UTF-8",
-				"line_ending": "Unix"
-			}
-		},
-		{
-			"file": "linked_list/linked_list.cpp",
-			"settings":
-			{
-				"buffer_size": 1352,
-				"encoding": "UTF-8",
+				"buffer_size": 1,
 				"line_ending": "Unix"
 			}
 		}
@@ -207,11 +224,27 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ritik-garg/com_prog/ds",
-		"/home/ritik-garg/com_prog/ds/array"
+		"/home/ritik-garg/com_prog/ds"
 	],
 	"file_history":
 	[
+		"/home/ritik-garg/xamp_data/hackathon_htdocs/sellersignup.php",
+		"/home/ritik-garg/xamp_data/pdo.php",
+		"/home/ritik-garg/xamp_data/rps.php",
+		"/home/ritik-garg/xamp_data/login2.php",
+		"/home/ritik-garg/xamp_data/hackathon_htdocs/user2.php",
+		"/home/ritik-garg/xamp_data/hackathon_htdocs/connectpp.php",
+		"/home/ritik-garg/xamp_data/hackathon_htdocs/sellerupload.php",
+		"/home/ritik-garg/xamp_data/first.php",
+		"/home/ritik-garg/xamp_data/db.php",
+		"/home/ritik-garg/xamp_data/connectpp.php",
+		"/home/ritik-garg/xamp_data/connect_php_mtsql/conn1.php",
+		"/home/ritik-garg/com_prog/ds/linked_list/linked_list_using_stl.cpp",
+		"/home/ritik-garg/com_prog/ds/linked_list/double_link_list_using_stl.cpp",
+		"/home/ritik-garg/com_prog/ds/linked_list/double_linked_list.cpp",
+		"/home/ritik-garg/com_prog/ds/linked_list/linked_list.cpp",
+		"/home/ritik-garg/com_prog/ds/array/STL_Implementation.cpp",
+		"/home/ritik-garg/com_prog/ds/array/static_dynamic_array.cpp",
 		"/home/ritik-garg/com_prog/ds/template.cpp",
 		"/home/ritik-garg/com_prog/ds/array/implement_using_stl.cpp",
 		"/home/ritik-garg/com_prog/dsalgo/ds/array/static_dynamic_array.cpp",
@@ -251,6 +284,7 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			"gq",
 			"\t\t\t\n",
 			"endl"
 		],
@@ -260,6 +294,7 @@
 		"regex": false,
 		"replace_history":
 		[
+			"double__"
 		],
 		"reverse": false,
 		"show_context": true,
@@ -270,97 +305,32 @@
 	"groups":
 	[
 		{
-			"selected": 2,
+			"selected": 0,
 			"sheets":
 			[
 				{
 					"buffer": 0,
-					"file": "array/static_dynamic_array.cpp",
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 1650,
+						"buffer_size": 1,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1354,
-								1354
+								1,
+								1
 							]
 						],
 						"settings":
 						{
-							"SL.64.region_keys":
-							[
-							],
-							"syntax": "Packages/C++/C++.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 492.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 2,
-					"type": "text"
-				},
-				{
-					"buffer": 1,
-					"file": "array/STL_Implementation.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 444,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								251,
-								251
-							]
-						],
-						"settings":
-						{
-							"SL.65.region_keys":
-							[
-							],
-							"syntax": "Packages/C++/C++.sublime-syntax"
+							"auto_name": "",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
-						"zoom_level": 1.0
-					},
-					"stack_index": 1,
-					"type": "text"
-				},
-				{
-					"buffer": 2,
-					"file": "linked_list/linked_list.cpp",
-					"semi_transient": false,
-					"settings":
-					{
-						"buffer_size": 1352,
-						"regions":
-						{
-						},
-						"selection":
-						[
-							[
-								1105,
-								1105
-							]
-						],
-						"settings":
-						{
-							"SL.35.region_keys":
-							[
-							],
-							"syntax": "Packages/C++/C++.sublime-syntax"
-						},
-						"translation.x": 0.0,
-						"translation.y": 457.0,
 						"zoom_level": 1.0
 					},
 					"stack_index": 0,
