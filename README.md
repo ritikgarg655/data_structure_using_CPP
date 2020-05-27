@@ -24,3 +24,9 @@ This repository contain my practice done to learn DataStructure.
         C. To check brackets in code in text editor.
         D. Used in dfs.
   
+  ### 4. Queue:
+    Queue implementaion using single linked list.
+    Time comlexity of following operation in queue:
+       A. ENQUEUE: O(1)
+       B. DEQUEUE:  O(1)
+       C. SIZE:    O(N)
