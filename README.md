@@ -10,8 +10,8 @@ This repository contain my practice done to learn DataStructure.
      A. static and dynamic array implementation.
      B. Usin STL implementation.
   ### 2. Linked List: 
-     The problem with array is that it is not efficient in terms of memory. It always double the size, loss of memory,
-     but it is not in linked list but required double size, another to save addrress.
+     The problem with array is that it is not efficient in terms of memory. It always double the size, loss 
+     of memory,but it is not in linked list but required double size, another to save addrress.
      Time comlexity of following operation in linked list:
        A. Insertion: O(N)
        B. Deletion:  O(N)
@@ -24,3 +24,9 @@ This repository contain my practice done to learn DataStructure.
         C. To check brackets in code in text editor.
         D. Used in dfs.
   
+  ### 4. Queue:
+    Queue implementaion using single linked list. Queue is FIFO (first in, first out)
+    Time comlexity of following operation in queue:
+       A. ENQUEUE: O(1)
+       B. DEQUEUE:  O(1)
+       C. SIZE:    O(N)
