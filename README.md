@@ -25,7 +25,7 @@ This repository contain my practice done to learn DataStructure.
         D. Used in dfs.
   
   ### 4. Queue:
-    Queue implementaion using single linked list.
+    Queue implementaion using single linked list. Queue is FIFO (first in, first out)
     Time comlexity of following operation in queue:
        A. ENQUEUE: O(1)
        B. DEQUEUE:  O(1)
