@@ -39,3 +39,8 @@ This repository contain my practice done to learn DataStructure.
       C. Size: O(1)
       D. Remove_using value: O(Log N)
       E. Dequeue using index: O(Log N)
+  ### 6. Union find:
+     Union find is used to uinon two set and find is used to find in which set value belongs.
+      A. union: aplha(n)
+      B. Find: aplha(n)
+      C. construct: O(n)
