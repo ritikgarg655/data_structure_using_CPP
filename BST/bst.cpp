@@ -182,18 +182,60 @@ public:
 		} 
 		cout<<endl;
 	}
+	void preorder(){
+		cout<<"preorder: ";
+		preorder(root);
+		cout<<endl;
+	}
+	void preorder(node *n){
+		if(n==NULL){
+			return;
+		}
+		cout<<n->data<<" ";
+		preorder(n->left);
+		preorder(n->right);
+	}
+	void postorder(){
+		cout<<"Postorder: ";
+		postorder(root);
+		cout<<endl;
+	}
+	void postorder(node *n){
+		if(n==NULL){
+			return;
+		}
+		postorder(n->left);
+		postorder(n->right);
+		cout<<n->data<<" ";
+	}
+	void inorder(){
+		cout<<"Inorder: ";
+		inorder(root);
+		cout<<endl;
+	}
+	void inorder(node *n){
+		if(n==NULL){
+			return;
+		}
+		inorder(n->left);
+		cout<<n->data<<" ";
+		inorder(n->right);
+	}
 };
 
 int main(){
 	bst b;
 	b.add(1);
 	b.add(2);
-	b.add(3);
+	b.add(6);
 	b.add(4);
 	b.add(5);
-	b.add(6);
+	b.add(3);
 	b.print_tree();
 	b.remove(4);
 	b.remove(3);
 	b.print_tree();
+	b.preorder();
+	b.postorder();
+	b.inorder();
 }
