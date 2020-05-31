@@ -44,3 +44,14 @@ This repository contain my practice done to learn DataStructure.
       A. union: aplha(n)
       B. Find: aplha(n)
       C. construct: O(n)
+  ### 7. BST (Binary search tree):
+    BST is tree which is acylic and has maximum two child for each parent. BST child has some constraint i.e. Left
+    child is less than parent and right child is more than parent with respect to comparision function.
+       A. Add element: O(Log N) 
+       B. Remove element: O(Log N)
+       C. Present: O(Log N)
+     Travelsal in BST:
+       A. Preorder (first left).
+       B. Inorder.
+       C. Postorder (first right).
+       D. Level (level wise).
