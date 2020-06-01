@@ -55,3 +55,19 @@ This repository contain my practice done to learn DataStructure.
        B. Inorder.
        C. Postorder (first right).
        D. Level (level wise).
+  ### 8. Hash table:
+    Hash table is key value pair, having hash function(H(x)) which which has input key and value, and output in 
+    specific range. Hash function map to only value in range which is index of our hash function. Key is called 
+    hasable means key used is immutable and key is in domain of hash function. Aplha is sensitivity feactor, 
+    which is used to remove over size. Their may be condition when different set of key value pair point to 
+    same index, such condtion is known as collision. Their are many collision resolution method, here we are
+    going to explore:
+      A. Seperate chaining: Used extra linked list to save pair for each index.
+      B. Open addresing: Used probing to change index if already value exist at that index.
+        1. Linear probing: P(x) = a * x + b.
+        2. Quadratic probing: P(x) = a * X^2 + b * x + c.
+     For optimise probing their is condtion on probing function to avoid cylce aslo after using probing:
+      A. Linear probing: GCD( A,N) should be one and a = 1 is used many time, if a!=1 than as capacitity 
+         is increased, according to which a should change.
+      B. Quadratic probing: 
+      
