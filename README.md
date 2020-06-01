@@ -66,6 +66,7 @@ This repository contain my practice done to learn DataStructure.
       B. Open addresing: Used probing to change index if already value exist at that index.
         1. Linear probing: P(x) = a * x + b.
         2. Quadratic probing: P(x) = a * X^2 + b * x + c.
+        3. Double hashing: P(x) = x * H2(k).
      For optimise probing their is condtion on probing function to avoid cylce aslo after using probing:
       A. Linear probing: GCD( A,N) should be one and a = 1 is used many time, if a!=1 than as capacitity 
          is increased, according to which a should change.
@@ -73,3 +74,4 @@ This repository contain my practice done to learn DataStructure.
         1. P(X) = X^2 and n (size of table) as prime>3 and alpha <=0.5.
         2. P(x) = (X^2 +X)/2 and N is in poer of two (Using here).
         3. P(x) = ((-1)^X) * X^2.
+      C. Double hashing: To avoid cycle, delta is defined as H2(k) % N. If delta is zero hange it zero, else unchanged. And final delta is returned, where N is prime.
