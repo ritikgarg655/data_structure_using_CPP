@@ -17,10 +17,10 @@ int unique_substring(string s){
 	int j =0;
 	for(int i = s.length()-1;i>=0;i--){
 		string ss = "";
-		for(int j=0;j<s.length()-i;j++){
-			ss += s[i-j];
+		for(int j=i;j<s.length();j++){
+			ss += s[j];
 		}
-		reverse(ss.begin(),ss.end());
+		// reverse(ss.begin(),ss.end());
 		sub_string.push_back(make_pair(ss,j));
 		j++;
 	}
