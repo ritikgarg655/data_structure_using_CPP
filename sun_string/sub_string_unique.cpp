@@ -20,6 +20,7 @@ int unique_substring(string s){
 		for(int j=0;j<s.length()-i;j++){
 			ss += s[i-j];
 		}
+		reverse(ss.begin(),ss.end());
 		sub_string.push_back(make_pair(ss,j));
 		j++;
 	}
