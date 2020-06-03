@@ -31,8 +31,8 @@ This repository contain my practice done to learn DataStructure.
        B. DEQUEUE:  O(1)
        C. SIZE:    O(N)
   ### 5. Periority queue:
-    In periority queue, each element has some periority and according to which enqueue, dequeue and other function
-    is implemented. Binary tree is used for implmentation. Hash table is used to remove element value wise in 
+    In periority queue, each element has some periority and according to which enqueue, dequeue and other 
+    function is implemented. Binary tree is used for implmentation. Hash table is used to remove element value wise in 
     O(Log N).
       A. Enqueue: O(Log N)
       B. Dequeue: O(Log N)
@@ -45,8 +45,8 @@ This repository contain my practice done to learn DataStructure.
       B. Find: aplha(n)
       C. construct: O(n)
   ### 7. BST (Binary search tree):
-    BST is tree which is acylic and has maximum two child for each parent. BST child has some constraint i.e. Left
-    child is less than parent and right child is more than parent with respect to comparision function.
+    BST is tree which is acylic and has maximum two child for each parent. BST child has some constraint i.e. 
+    Left child is less than parent and right child is more than parent with respect to comparision function.
        A. Add element: O(Log N) 
        B. Remove element: O(Log N)
        C. Present: O(Log N)
