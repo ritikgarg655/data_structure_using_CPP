@@ -74,4 +74,5 @@ This repository contain my practice done to learn DataStructure.
         1. P(X) = X^2 and n (size of table) as prime>3 and alpha <=0.5.
         2. P(x) = (X^2 +X)/2 and N is in poer of two (Using here).
         3. P(x) = ((-1)^X) * X^2.
-      C. Double hashing: To avoid cycle, delta is defined as H2(k) % N. If delta is zero hange it zero, else unchanged. And final delta is returned, where N is prime.
+      C. Double hashing: To avoid cycle, delta is defined as H2(k) % N. If delta is zero hange it zero, else
+      unchanged. And final delta is returned, where N is prime.
