@@ -4,8 +4,112 @@
 		"selected_items":
 		[
 			[
+				"in",
+				"index"
+			],
+			[
+				"pai",
+				"pair"
+			],
+			[
+				"pair",
+				"make_pair"
+			],
+			[
+				"pre",
+				"prev_size"
+			],
+			[
+				"do",
+				"double_hash_fun"
+			],
+			[
+				"ha",
+				"hash_table"
+			],
+			[
+				"VA",
+				"value2"
+			],
+			[
+				"va",
+				"value2"
+			],
+			[
+				"has",
+				"hash_fun"
+			],
+			[
+				"beg",
+				"begin"
+			],
+			[
+				"str",
+				"string"
+			],
+			[
+				"ma",
+				"max_capacity"
+			],
+			[
+				"nu",
+				"NULL"
+			],
+			[
+				"ne",
+				"next_root"
+			],
+			[
+				"v",
+				"value"
+			],
+			[
+				"n",
+				"n-"
+			],
+			[
+				"prin",
+				"print_tree"
+			],
+			[
+				"next",
+				"next"
+			],
+			[
+				"re",
+				"remove"
+			],
+			[
+				"roo",
+				"root"
+			],
+			[
+				"ro",
+				"root"
+			],
+			[
+				"r",
+				"root_p"
+			],
+			[
+				"tem",
+				"temp_index"
+			],
+			[
+				"en",
+				"enqueue"
+			],
+			[
+				"pe",
+				"periority_queue"
+			],
+			[
 				"de",
-				"deleting_node"
+				"dequeue"
+			],
+			[
+				"te",
+				"temp"
 			],
 			[
 				"d",
@@ -16,22 +120,6 @@
 				"count"
 			],
 			[
-				"ne",
-				"next_add"
-			],
-			[
-				"tem",
-				"temp"
-			],
-			[
-				"pre",
-				"prev_add"
-			],
-			[
-				"do",
-				"double_l_list"
-			],
-			[
 				"t",
 				"type"
 			],
@@ -40,24 +128,12 @@
 				"l1"
 			],
 			[
-				"te",
-				"temp_add"
-			],
-			[
 				"s",
 				"s_starting_add"
 			],
 			[
 				"sta",
 				"static"
-			],
-			[
-				"r",
-				"r_revese_list"
-			],
-			[
-				"re",
-				"return"
 			],
 			[
 				"p",
@@ -100,14 +176,6 @@
 				"capacity"
 			],
 			[
-				"in",
-				"index"
-			],
-			[
-				"ma",
-				"m_capacity"
-			],
-			[
 				"m_",
 				"m_size"
 			],
@@ -132,10 +200,6 @@
 				"n-start"
 			],
 			[
-				"en",
-				"endl"
-			],
-			[
 				"End",
 				"endl"
 			],
@@ -156,10 +220,10 @@
 	"buffers":
 	[
 		{
-			"contents": "\t",
+			"file": "Fenwick_Tree/Fenwick_tree.cpp",
 			"settings":
 			{
-				"buffer_size": 1,
+				"buffer_size": 0,
 				"line_ending": "Unix"
 			}
 		}
@@ -224,10 +288,25 @@
 	},
 	"expanded_folders":
 	[
-		"/home/ritik-garg/com_prog/ds"
+		"/home/ritik-garg/com_prog/ds",
+		"/home/ritik-garg/com_prog/ds/Fenwick_Tree",
+		"/home/ritik-garg/com_prog/ds/union_find"
 	],
 	"file_history":
 	[
+		"/home/ritik-garg/com_prog/ds/union_find/Fenwick_tree.cpp",
+		"/home/ritik-garg/com_prog/ds/union_find/union_find.cpp",
+		"/home/ritik-garg/com_prog/ds/hash_table/hash_table_using_double_hash.cpp",
+		"/home/ritik-garg/com_prog/ds/hash_table/hash_table_using_quad_prob.cpp",
+		"/home/ritik-garg/com_prog/ds/hash_table/hash_table_using_separate_chaining.cpp",
+		"/home/ritik-garg/com_prog/ds/hash_table/hash_table_using_linaer_prob.cpp",
+		"/home/ritik-garg/com_prog/ds/BST/bst.cpp",
+		"/home/ritik-garg/com_prog/ds/periority_queue/periority_queue.cpp",
+		"/home/ritik-garg/com_prog/ds/queue/periority_queue.cpp",
+		"/home/ritik-garg/com_prog/ds/queue/queue.cpp",
+		"/home/ritik-garg/com_prog/ds/queue/queue_using_stl.cpp",
+		"/home/ritik-garg/com_prog/ds/stack/stack_using_stl.cpp",
+		"/home/ritik-garg/com_prog/ds/stack/stack.cpp",
 		"/home/ritik-garg/xamp_data/hackathon_htdocs/sellersignup.php",
 		"/home/ritik-garg/xamp_data/pdo.php",
 		"/home/ritik-garg/xamp_data/rps.php",
@@ -284,6 +363,12 @@
 		"case_sensitive": false,
 		"find_history":
 		[
+			">>",
+			"}\n",
+			"queue",
+			"\t\t\t\n",
+			"stack",
+			"type",
 			"gq",
 			"\t\t\t\n",
 			"endl"
@@ -294,6 +379,9 @@
 		"regex": false,
 		"replace_history":
 		[
+			"queue_using_single_linked_list",
+			"stack_using_single_linked_list",
+			"T",
 			"double__"
 		],
 		"reverse": false,
@@ -310,24 +398,24 @@
 			[
 				{
 					"buffer": 0,
-					"semi_transient": false,
+					"file": "Fenwick_Tree/Fenwick_tree.cpp",
+					"semi_transient": true,
 					"settings":
 					{
-						"buffer_size": 1,
+						"buffer_size": 0,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								1,
-								1
+								0,
+								0
 							]
 						],
 						"settings":
 						{
-							"auto_name": "",
-							"syntax": "Packages/Text/Plain text.tmLanguage"
+							"syntax": "Packages/C++/C++.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,

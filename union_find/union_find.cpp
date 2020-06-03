@@ -12,27 +12,30 @@ public:
 	union_find(int size){
 		id = (int *)malloc(sizeof(int)*size);
 		sz = (int *)malloc(sizeof(int)*size);
+		
 		for(int i=0;i<size;i++){
 			id[i] = i;
 			sz[i] = 1;
 		}
+		
 		numcomponent = size;
 		this->size = size;
 	}
 
 	int find(int p){
 		int root = p;
+		
 		while(root != id[root]){
 			root = id[root];
 		}
+
 		while(p!=root){
 			int next = id[root];
 			id[p] = root;
-			 p = next;
+			p = next;
 		}
 
 		return root;
-
 	}
 	void do_union(int p,int q){
 		int root_p = find(p);
@@ -51,7 +54,6 @@ public:
 };
 
 int main(){
-
 	union_find a(5);
 	a.do_union(1,4);
 	a.do_union(0,2);

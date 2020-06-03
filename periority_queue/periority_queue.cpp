@@ -5,8 +5,8 @@ template<class T> class periority_queue{
 private: 
 	vector<T> binary_tree;
 	int last_node; // index of last node.x`
-	// Hash for removing in O(logn)
-	map<T,vector<int>> hash; // value, array of index
+		// Hash for removing in O(logn)
+		map<T,vector<int>> hash; // value, array of index
 
 public:
 	void swim(int &curr_index){
