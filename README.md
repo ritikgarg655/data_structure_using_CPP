@@ -32,8 +32,8 @@ This repository contain my practice done to learn DataStructure.
        C. SIZE:    O(N)
   ### 5. Periority queue:
     In periority queue, each element has some periority and according to which enqueue, dequeue and other 
-    function is implemented. Binary tree is used for implmentation. Hash table is used to remove element value wise in 
-    O(Log N).
+    function is implemented. Binary tree is used for implmentation. Hash table is used to remove element 
+    value wise in O(Log N).
       A. Enqueue: O(Log N)
       B. Dequeue: O(Log N)
       C. Size: O(1)
